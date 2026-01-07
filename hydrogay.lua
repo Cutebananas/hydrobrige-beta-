@@ -1,5 +1,5 @@
 --[[
-    HYDROBRIDGE V5.1: LESS-ERROR EDITION
+    HYDROBRIDGE V5.1: ye, definitely improved sth
     - Removed BindToClose (Fixed Server-Only Error)
     - Added Heartbeat-only cleanup
 --]]
