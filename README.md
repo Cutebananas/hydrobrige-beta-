@@ -78,7 +78,7 @@ getgenv().hydrobridge.executeAll(code)
 local code = [[
 script here boiiiiiii
 ]]
-getgenv().hydrobridge.execute(instance number here, code)
+getgenv().hydrobridge.execute(bridge id here, code)
 ```
 
 ###   How it Works (Under the Hood)
