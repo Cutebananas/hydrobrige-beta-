@@ -19,7 +19,7 @@ getgenv().http = {request = http_request}
 
 loadstring(game:HttpGet("(https://raw.githubusercontent.com/Cutebananas/hydrobrige-beta/refs/heads/main/hydrobrige%20V5.lua)"))()
 ```
-**If you want V6 (newer version), use this**
+**If you want V6 (newer version, bigger ui so that you see the bridge ID easier), use this**
 ```lua
 getgenv().request = http_request
 http.request = http_request
