@@ -47,8 +47,9 @@ local code = [[
     if game.Players.LocalPlayer.Name == "YourAltName" then
         print("Command received by the target alt.")
     end
+    --Keep the part above, paste your script below here
 ]]
-getgenv().hydrobridge.executeAll(script here)
+getgenv().hydrobridge.executeAll(code)
 
 ```
 
