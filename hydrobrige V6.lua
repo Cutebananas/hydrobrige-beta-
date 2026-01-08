@@ -137,7 +137,7 @@ local function UpdateUI()
     end
 end
 
--- // API EXPORTS \\ --
+--  API EXPORTS  --
 
 Bridge.execute = function(targetId, code)
     local activeFiles = GetBridgeFiles()
@@ -177,7 +177,7 @@ Bridge.executeAll = function(code)
     end
 end
 
--- // MAIN LOOPS \\ --
+--  MAIN LOOPS  --
 
 -- 1. Heartbeat & Command Processor (Fast Loop)
 task.spawn(function()
