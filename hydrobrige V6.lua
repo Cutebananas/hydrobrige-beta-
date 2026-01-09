@@ -6,6 +6,7 @@ PASTE THIS INTO AUTO EXEC OR FOLLOW THE README FILE
     - Persistent Cleanup: Garbage collection now runs periodically, not just once.
     - Non-Blocking IO: Added yields during heavy file operations.
     - Modular Structure: Separated UI, FileSystem, and Bridge logic.
+    - Edited so that no more errors on line 3
 ]]
 
 local HttpService = game:GetService("HttpService")
